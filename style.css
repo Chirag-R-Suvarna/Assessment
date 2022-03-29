@@ -1,0 +1,175 @@
+h5{
+    display: inline;
+}
+.container-fluid{
+    border:16px solid #F0F0F0;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+.carousel-control-prev{
+    position: 0 0;
+    color: blue;
+    left: 3px;
+}
+
+.fa-angle-down{
+    margin-left: 15px;
+    color: #E49570;   
+}
+
+.key-plan{
+    margin-left: 64px;
+}
+
+.key-plan-heading{
+    margin-top: 28px;
+}
+
+.u-shape{
+    margin-bottom:60%;
+    margin-top: 20px;    
+}
+
+img{
+    margin-left: 20px;
+    margin-top:20px;
+}
+
+.fa-rotate{
+    margin-bottom: 20px;
+}
+
+.randomize{
+    
+    margin-bottom: 10px;
+}
+
+.btn-primary{
+    background-color: transparent;
+    border-color: #E49570;
+    color: #E49570;
+}
+
+/* .proceed .btn{
+    padding: 15px 32px 10px 38px;
+    background-color: #2A2A2A
+} */
+
+a{
+    color: #E49570;
+}
+
+.col-6{
+    padding: 15px;    
+}
+
+.border-right-part{
+    border-right: 1px solid black;
+}
+
+.btn-primary{
+    margin-right: 40px;
+    margin-bottom: 10px;
+}
+
+.fa-share-nodes{
+    margin-left: 35px;
+    font-weight: 200px;
+    font-size: 180%;
+    color: #E49570;
+}
+
+.fa-floppy-disk{
+    font-weight: 200px;
+    font-size: 180%;
+    color: #E49570;
+    margin-left:35px;   
+}
+
+.elevation-path{
+    margin-left: 20px;
+}
+
+.dropbtn {
+    background-color: #fafcfb00;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;    
+}
+
+.dropdown-content {
+    display: none;
+    /* position: absolute; */
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #f1f1f1
+}
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.consult-part{
+    display: inline-block;
+    margin-left: 40px;
+}
+/* .dropdown:hover .dropbtn {
+    /* background-color: #2c2b2b79; */
+    /* box-shadow: 0px 3px 18px -1px; */
+    /* } */ 
+    
+    .carousel-item{
+        height: 200px;
+        width: 80%;
+    } 
+    
+    .carousel-item img{
+        height: 200px;
+    }
+    
+    .dropdown-toggle{
+        size: 50px;
+    }
+    /* .dropdown-menu{
+        height: 200px;
+        border: none;
+    } */
+    .col-3{
+        margin-top: 50px;
+    }
+    
+    .btn{
+        border-radius: 30px;    
+    }
+    
+    .dropdown-elevation-path{
+        border-radius: 0px;   
+    }
+    
+    btn.focus, .btn:focus {
+        outline: 0;
+        box-shadow: 0px 3px 18px -1px;
+    }
+
+                
